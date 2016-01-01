@@ -13,7 +13,7 @@
 [あーちのほん（PDF版）](https://spica.bz/arch-b00k/palloc_pro/document.pdf)
 
 ## ライセンス
-ArchLinuxのロゴの画像（cover/\*に利用）を除いた，PDFとtexファイルは[（クリエイティブ・コモンズ 4.0 表示）](http://creativecommons.org/licenses/by/4.0/deed.ja)でライセンスします．
+ArchLinuxのロゴの画像（cover/\*に利用）を除いた，PDFとtexファイルは[「クリエイティブ・コモンズ 4.0 表示」](http://creativecommons.org/licenses/by/4.0/deed.ja)でライセンスします．
 また，ArchLinuxを表記する際に「TM」を省略しています．
 
 ## 連絡先
